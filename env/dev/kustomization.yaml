@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/Iditgl/demo-app
-  newTag: latest
+  newTag: 8de33e70e6958046cebaf7e0d4edd26717ace121
