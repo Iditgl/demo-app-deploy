@@ -5,7 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/Iditgl/demo-app
-  newTag: b6b46924d8cb80cd00597dbc3b76248c4fd33bd5
 - name: ghcr.io/iditgl/demo-app
-  newTag: 8cba03b661c6b85b6a91814c6234e9cbb83afdb1
+  newTag: b6b46924d8cb80cd00597dbc3b76248c4fd33bd5
